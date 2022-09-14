@@ -70,7 +70,7 @@ print(computer_suppliers)
 
 print(f"De computer leverancier op de 10e plek is {computer_suppliers[9]}")
 
-##
+###
 
 phone_numbers = {"The Simpsons": "636-555-3226",
 "Vegas Vacation": "555-0100",
