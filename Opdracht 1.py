@@ -6,7 +6,7 @@
 
 from numbers import Integral
 
-print("test")
+print("test2")
 
 
 print(2 + 3)
