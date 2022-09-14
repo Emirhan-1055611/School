@@ -6,6 +6,8 @@
 
 from numbers import Integral
 
+print("test")
+
 
 print(2 + 3)
 print(2 - 3)
